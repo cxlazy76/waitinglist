@@ -187,7 +187,7 @@ export default function WaitlistForm({ onSuccessChange }: FormProps) {
                   className="absolute right-0 font-semibold top-0 bottom-0 bg-[#e5ff00] flex justify-center items-center cursor-pointer text-black px-5 py-2 m-2 rounded-[12] hover:bg-opacity-90 transition-all disabled:opacity-50"
                   disabled={loading}
                 >
-                  Continue
+                  Join Waitlist
                 </button>
               </motion.div>
             ) : (
